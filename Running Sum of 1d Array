@@ -1,0 +1,20 @@
+class Solution {
+    public int[] runningSum(int[] nums) {
+        int[] result = new int[nums.length];
+        int sum = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            sum += nums[i];
+            result[i] = sum;
+        }
+
+        return result;
+    }
+}
+Output :
+Case1 :
+new = [1,2,3,4]
+Case2 :
+new = [1,1,1,1,1]
+Case3 :
+new = [3,1,2,10,1]
