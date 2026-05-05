@@ -123,4 +123,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
