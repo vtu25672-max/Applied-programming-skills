@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
 ## Array
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
@@ -104,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
