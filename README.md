@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0202-happy-number) |
 ## Backtracking
 |  |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0190-reverse-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
