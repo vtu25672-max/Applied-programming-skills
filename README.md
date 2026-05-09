@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0721-accounts-merge) |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
