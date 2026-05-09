@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0622-design-circular-queue) |
+| [0695-max-area-of-island](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -184,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
