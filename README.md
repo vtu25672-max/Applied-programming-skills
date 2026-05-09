@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
