@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0049-group-anagrams) |
+| [0257-binary-tree-paths](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0721-accounts-merge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0721-accounts-merge) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
@@ -276,4 +280,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
