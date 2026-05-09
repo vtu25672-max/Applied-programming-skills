@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0322-coin-change) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0542-01-matrix) |
