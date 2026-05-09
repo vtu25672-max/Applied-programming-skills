@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
 ## Array
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0739-daily-temperatures) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0020-valid-parentheses) |
+| [0721-accounts-merge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Simulation
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0721-accounts-merge) |
 ## Counting
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0841-keys-and-rooms) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
@@ -166,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0994-rotting-oranges) |
@@ -197,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
