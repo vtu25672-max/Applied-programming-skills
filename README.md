@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0474-ones-and-zeroes) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0202-happy-number) |
 ## Backtracking
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
