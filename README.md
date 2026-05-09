@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0695-max-area-of-island) |
