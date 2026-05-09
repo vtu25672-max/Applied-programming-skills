@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
+| [0994-rotting-oranges](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0199-binary-tree-right-side-view) |
+| [0994-rotting-oranges](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
