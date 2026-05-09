@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
 ## Array
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0739-daily-temperatures) |
+| [0929-unique-email-addresses](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0997-find-the-town-judge) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0020-valid-parentheses) |
 | [0721-accounts-merge](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Simulation
 |  |
