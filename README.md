@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/vtu25672-max/Applied-programming-skills/tree/master/0190-reverse-bits) |
 ## Memoization
 |  |
